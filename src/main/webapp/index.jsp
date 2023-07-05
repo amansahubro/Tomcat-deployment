@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Aman kese ho bhai</h2>
+<h2>Hello your front page is ready</h2>
 </body>
 </html>
